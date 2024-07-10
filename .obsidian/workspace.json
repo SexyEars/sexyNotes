@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "410f22f6750fbc7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aac2d55aba61fbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa565ff9f9c11ca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mouse guard/locations/Яблочный дом.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cb21aa55afc2bb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bb097d5fd282bfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de66da4f8c792560",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09a095457417839b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d45d78c45cd3e0e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ebc230d44246973f",
+    "type": "split",
+    "children": [
+      {
+        "id": "18a7a54d02a4d71c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e7ca8295672709e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "fa565ff9f9c11ca2",
+  "lastOpenFiles": [
+    "mouse guard/locations/Локхейвен.md",
+    "mouse guard/characters/Moss.md",
+    "mouse guard/characters/Стюарт Литтл.md",
+    "mouse guard/characters/Черри.md",
+    "mouse guard/characters/Рики-Мару.md",
+    "mouse guard/characters/Февронья.md",
+    "mouse guard/characters/Пиби.md",
+    "mouse guard/characters/Чарли.md",
+    "mouse guard/characters/Теон.md",
+    "mouse guard/characters/Реджи.md",
+    "notesFromABusyDude/medium_media_httpfarm5static_mevIk.png",
+    "notesFromABusyDude/cohesion&couplingImage.png",
+    "mouse guard/characters/Берг.md",
+    "mouse guard/characters/Ашер.md",
+    "mouse guard/locations/Темноводье.md",
+    "mouse guard/locations/Моховяз.md",
+    "mouse guard/locations/Плющи.md",
+    "mouse guard/locations/Меднолесье.md",
+    "mouse guard/locations/Подъельник.md",
+    "mouse guard/locations/Гальбрук.md",
+    "mouse guard/characters/Крузиан.md",
+    "mouse guard/characters/Криз.md",
+    "mouse guard/characters/Гарри Красное Ушко.md",
+    "mouse guard/characters/Кира Длиннохвостка.md",
+    "mouse guard/characters/Гвендолин.md",
+    "mouse guard/locations/Яблочный дом.md",
+    "mouse guard/locations/Черный утес.md",
+    "mouse guard/locations/Сланцевая нора.md",
+    "characters",
+    "mouse guard/games",
+    "mouse guard/characters",
+    "Path/To/MyFolder",
+    "Path/To",
+    "Path",
+    "mouse guard/templates",
+    "mouse guard/locations",
+    "mouse guard"
+  ]
+}
