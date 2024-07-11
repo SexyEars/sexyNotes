@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8aac2d55aba61fbb",
+        "id": "8555772e897f3ff3",
         "type": "tabs",
         "children": [
           {
-            "id": "fa565ff9f9c11ca2",
+            "id": "a96a28d2e33e124d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mouse guard/locations/Яблочный дом.md",
+                "file": "mouse guard/locations/Плющи.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ebc230d44246973f",
@@ -89,12 +89,61 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "d26df44bfaf771fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mouse guard/locations/Плющи.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0ecfe32de68db59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mouse guard/locations/Плющи.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "209b7e1879fce37f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mouse guard/locations/Плющи.md"
+              }
+            }
+          },
+          {
+            "id": "90d724b6031a6cba",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -109,36 +158,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa565ff9f9c11ca2",
+  "active": "a96a28d2e33e124d",
   "lastOpenFiles": [
-    "mouse guard/locations/Локхейвен.md",
-    "mouse guard/characters/Moss.md",
-    "mouse guard/characters/Стюарт Литтл.md",
-    "mouse guard/characters/Черри.md",
-    "mouse guard/characters/Рики-Мару.md",
-    "mouse guard/characters/Февронья.md",
-    "mouse guard/characters/Пиби.md",
-    "mouse guard/characters/Чарли.md",
-    "mouse guard/characters/Теон.md",
-    "mouse guard/characters/Реджи.md",
-    "notesFromABusyDude/medium_media_httpfarm5static_mevIk.png",
-    "notesFromABusyDude/cohesion&couplingImage.png",
-    "mouse guard/characters/Берг.md",
-    "mouse guard/characters/Ашер.md",
-    "mouse guard/locations/Темноводье.md",
-    "mouse guard/locations/Моховяз.md",
-    "mouse guard/locations/Плющи.md",
     "mouse guard/locations/Меднолесье.md",
-    "mouse guard/locations/Подъельник.md",
+    "mouse guard/locations/Локхейвен.md",
+    "mouse guard/templates/Партии.md",
+    "mouse guard/templates/location.md",
+    "mouse guard/templates/template №1.md",
+    "mouse guard/locations/Плющи.md",
+    "mouse guard/locations/Моховяз.md",
+    "mouse guard/locations/Древоград.md",
     "mouse guard/locations/Гальбрук.md",
-    "mouse guard/characters/Крузиан.md",
-    "mouse guard/characters/Криз.md",
+    "mouse guard/images/Реджи.jpg",
+    "mouse guard/images/Карта с разметкой.jpeg",
+    "mouse guard/characters/Реджи.md",
+    "mouse guard/characters/Черри.md",
+    "mouse guard/characters/Яблочко.md",
+    "mouse guard/characters/Moss.md",
+    "mouse guard/characters/Ашер.md",
+    "mouse guard/characters/Берг.md",
     "mouse guard/characters/Гарри Красное Ушко.md",
     "mouse guard/characters/Кира Длиннохвостка.md",
-    "mouse guard/characters/Гвендолин.md",
-    "mouse guard/locations/Яблочный дом.md",
-    "mouse guard/locations/Черный утес.md",
-    "mouse guard/locations/Сланцевая нора.md",
+    "mouse guard/characters/Чарли.md",
+    "mouse guard/characters/Пиби.md",
+    "mouse guard/characters/Крузиан.md",
+    "mouse guard/characters/Криз.md",
+    "mouse guard/characters/Февронья.md",
+    "mouse guard/characters/Теон.md",
+    "mouse guard/characters/Стюарт Литтл.md",
+    "mouse guard/characters/Рики-Мару.md",
+    "mouse guard/characters/Базилиус.md",
+    "mouse guard/images/Яблочко.jpg",
+    "mouse guard/images/Черри.jpg",
+    "mouse guard/images/Яблочко (1).jpg",
+    "mouse guard/images",
+    "Яблочко (1) 1.jpg",
+    "notesFromABusyDude/medium_media_httpfarm5static_mevIk.png",
+    "notesFromABusyDude/cohesion&couplingImage.png",
     "characters",
     "mouse guard/games",
     "mouse guard/characters",
