@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mouse guard/locations/Плющи.md",
+                "file": "notesFromABusyDude/БД/репликация регистра.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 596.5
   },
   "right": {
     "id": "ebc230d44246973f",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mouse guard/locations/Плющи.md",
+                "file": "notesFromABusyDude/БД/репликация регистра.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mouse guard/locations/Плющи.md",
+                "file": "notesFromABusyDude/БД/репликация регистра.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mouse guard/locations/Плющи.md"
+                "file": "notesFromABusyDude/БД/репликация регистра.md"
               }
             }
           },
@@ -160,17 +160,38 @@
   },
   "active": "a96a28d2e33e124d",
   "lastOpenFiles": [
+    "notesFromABusyDude/images/второй костыль линеаризуемости.png",
+    "notesFromABusyDude/БД/репликация регистра.md",
+    "notesFromABusyDude/БД/базы данных.md",
+    "notesFromABusyDude/images/нарушение линеаризуемости.png",
+    "notesFromABusyDude/noSqlTriangle.png",
+    "notesFromABusyDude/ACID AND BASE.md",
+    "notesFromABusyDude/CAP - теорема.md",
+    "notesFromABusyDude/cohesion&couplingImage.png",
+    "notesFromABusyDude/Coupling and Cohesion.md",
+    "notesFromABusyDude/microservice and monolite.md",
+    "notesFromABusyDude/Microservices patterns.md",
+    "notesFromABusyDude/images/система кворумов.png",
+    "notesFromABusyDude/images/чтение и запись атомарного регистра.png",
+    "notesFromABusyDude/images/репликация.png",
+    "notesFromABusyDude/images/формальное определение линеаризуемости.png",
+    "notesFromABusyDude/images/сериализация.png",
+    "notesFromABusyDude/images/реализация и спецификация.png",
+    "notesFromABusyDude/Untitled Kanban.md",
+    "notesFromABusyDude/images",
+    "notesFromABusyDude/БД",
+    "mouse guard/characters/Шоумен.md",
+    "Bandit Mouse.jfif",
+    "mouse guard/locations/Плющи.md",
+    "mouse guard/locations/Моховяз.md",
     "mouse guard/locations/Меднолесье.md",
     "mouse guard/locations/Локхейвен.md",
+    "mouse guard/ideas",
     "mouse guard/templates/Партии.md",
     "mouse guard/templates/location.md",
     "mouse guard/templates/template №1.md",
-    "mouse guard/locations/Плющи.md",
-    "mouse guard/locations/Моховяз.md",
     "mouse guard/locations/Древоград.md",
     "mouse guard/locations/Гальбрук.md",
-    "mouse guard/images/Реджи.jpg",
-    "mouse guard/images/Карта с разметкой.jpeg",
     "mouse guard/characters/Реджи.md",
     "mouse guard/characters/Черри.md",
     "mouse guard/characters/Яблочко.md",
@@ -178,31 +199,11 @@
     "mouse guard/characters/Ашер.md",
     "mouse guard/characters/Берг.md",
     "mouse guard/characters/Гарри Красное Ушко.md",
-    "mouse guard/characters/Кира Длиннохвостка.md",
-    "mouse guard/characters/Чарли.md",
-    "mouse guard/characters/Пиби.md",
-    "mouse guard/characters/Крузиан.md",
-    "mouse guard/characters/Криз.md",
-    "mouse guard/characters/Февронья.md",
-    "mouse guard/characters/Теон.md",
-    "mouse guard/characters/Стюарт Литтл.md",
-    "mouse guard/characters/Рики-Мару.md",
-    "mouse guard/characters/Базилиус.md",
-    "mouse guard/images/Яблочко.jpg",
-    "mouse guard/images/Черри.jpg",
-    "mouse guard/images/Яблочко (1).jpg",
     "mouse guard/images",
-    "Яблочко (1) 1.jpg",
-    "notesFromABusyDude/medium_media_httpfarm5static_mevIk.png",
-    "notesFromABusyDude/cohesion&couplingImage.png",
     "characters",
     "mouse guard/games",
     "mouse guard/characters",
     "Path/To/MyFolder",
-    "Path/To",
-    "Path",
-    "mouse guard/templates",
-    "mouse guard/locations",
-    "mouse guard"
+    "Path/To"
   ]
 }
