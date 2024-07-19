@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "8aac2d55aba61fbb",
+        "id": "8c210a23ae06374e",
         "type": "tabs",
         "children": [
           {
-            "id": "fa565ff9f9c11ca2",
+            "id": "33097a4b41f08a70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mouse guard/locations/Яблочный дом.md",
+                "file": "notesFromABusyDude/Concurrency/thread pool.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "dab680ee9db7f3fb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#pattern",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ebc230d44246973f",
@@ -89,12 +100,61 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "d26df44bfaf771fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notesFromABusyDude/Concurrency/thread pool.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0ecfe32de68db59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notesFromABusyDude/Concurrency/thread pool.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "209b7e1879fce37f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notesFromABusyDude/Concurrency/thread pool.md"
+              }
+            }
+          },
+          {
+            "id": "90d724b6031a6cba",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -109,44 +169,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa565ff9f9c11ca2",
+  "active": "dab680ee9db7f3fb",
   "lastOpenFiles": [
-    "mouse guard/locations/Локхейвен.md",
-    "mouse guard/characters/Moss.md",
-    "mouse guard/characters/Стюарт Литтл.md",
-    "mouse guard/characters/Черри.md",
-    "mouse guard/characters/Рики-Мару.md",
-    "mouse guard/characters/Февронья.md",
-    "mouse guard/characters/Пиби.md",
-    "mouse guard/characters/Чарли.md",
-    "mouse guard/characters/Теон.md",
-    "mouse guard/characters/Реджи.md",
-    "notesFromABusyDude/medium_media_httpfarm5static_mevIk.png",
+    "notesFromABusyDude/Concurrency/mutex.md",
+    "notesFromABusyDude/Concurrency/thread pool.md",
+    "notesFromABusyDude/Concurrency/Конкуретные баги.md",
+    "notesFromABusyDude/БД/CAP - теорема.md",
+    "notesFromABusyDude/Coupling and Cohesion.md",
+    "notesFromABusyDude/БД/ACID AND BASE.md",
+    "notesFromABusyDude/Concurrency",
+    "notesFromABusyDude/images/mutexLockUnlock.png",
+    "notesFromABusyDude/images/noSqlTriangle.png",
     "notesFromABusyDude/cohesion&couplingImage.png",
-    "mouse guard/characters/Берг.md",
-    "mouse guard/characters/Ашер.md",
-    "mouse guard/locations/Темноводье.md",
-    "mouse guard/locations/Моховяз.md",
+    "notesFromABusyDude/Fiber.md",
+    "notesFromABusyDude/microservice and monolite.md",
+    "notesFromABusyDude/Microservices patterns.md",
+    "notesFromABusyDude/Распределенные системы.md",
+    "notesFromABusyDude/БД/базы данных.md",
+    "notesFromABusyDude/БД/репликация регистра.md",
+    "notesFromABusyDude/images/message passing.png",
+    "notesFromABusyDude/БД/Untitled.md",
+    "notesFromABusyDude/images/второй костыль линеаризуемости.png",
+    "notesFromABusyDude/images/нарушение линеаризуемости.png",
+    "notesFromABusyDude/images/система кворумов.png",
+    "notesFromABusyDude/images/чтение и запись атомарного регистра.png",
+    "notesFromABusyDude/images/репликация.png",
+    "notesFromABusyDude/images/формальное определение линеаризуемости.png",
+    "notesFromABusyDude/Untitled Kanban.md",
+    "notesFromABusyDude/images",
+    "notesFromABusyDude/БД",
+    "mouse guard/characters/Шоумен.md",
+    "Bandit Mouse.jfif",
     "mouse guard/locations/Плющи.md",
+    "mouse guard/locations/Моховяз.md",
     "mouse guard/locations/Меднолесье.md",
-    "mouse guard/locations/Подъельник.md",
+    "mouse guard/locations/Локхейвен.md",
+    "mouse guard/ideas",
+    "mouse guard/templates/Партии.md",
+    "mouse guard/templates/location.md",
+    "mouse guard/templates/template №1.md",
+    "mouse guard/locations/Древоград.md",
     "mouse guard/locations/Гальбрук.md",
-    "mouse guard/characters/Крузиан.md",
-    "mouse guard/characters/Криз.md",
-    "mouse guard/characters/Гарри Красное Ушко.md",
-    "mouse guard/characters/Кира Длиннохвостка.md",
-    "mouse guard/characters/Гвендолин.md",
-    "mouse guard/locations/Яблочный дом.md",
-    "mouse guard/locations/Черный утес.md",
-    "mouse guard/locations/Сланцевая нора.md",
+    "mouse guard/characters/Реджи.md",
+    "mouse guard/characters/Черри.md",
+    "mouse guard/images",
     "characters",
     "mouse guard/games",
     "mouse guard/characters",
-    "Path/To/MyFolder",
-    "Path/To",
-    "Path",
-    "mouse guard/templates",
-    "mouse guard/locations",
-    "mouse guard"
+    "Path/To/MyFolder"
   ]
 }
