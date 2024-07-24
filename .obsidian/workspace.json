@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notesFromABusyDude/Concurrency/Конкуретные баги.md",
+                "file": "mouse guard/games/3-я партия.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notesFromABusyDude/Concurrency/Конкуретные баги.md",
+                "file": "mouse guard/games/3-я партия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notesFromABusyDude/Concurrency/Конкуретные баги.md",
+                "file": "mouse guard/games/3-я партия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notesFromABusyDude/Concurrency/Конкуретные баги.md"
+                "file": "mouse guard/games/3-я партия.md"
               }
             }
           },
@@ -138,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,9 +159,21 @@
   },
   "active": "dab680ee9db7f3fb",
   "lastOpenFiles": [
+    "mouse guard/games/1-ая партия.md",
+    "mouse guard/games/2-ая партия.md",
+    "mouse guard/games/3-я партия.md",
+    "mouse guard/games/Планы на 3-ю партию.md",
+    "mouse guard/games/Планы на 2-ую партию.md",
+    "mouse guard/games/Планы на 1-ую партию.md",
+    "notesFromABusyDude/Распределенные системы.md",
+    "notesFromABusyDude/Microservices patterns.md",
+    "notesFromABusyDude/microservice and monolite.md",
+    "notesFromABusyDude/Fiber.md",
+    "notesFromABusyDude/patterns/bff.md",
+    "Untitled Kanban.md",
+    "notesFromABusyDude/Concurrency/Конкуретные баги.md",
     "notesFromABusyDude/Concurrency/thread pool.md",
     "notesFromABusyDude/authorization/openId (in developing).md",
-    "notesFromABusyDude/patterns/bff.md",
     "notesFromABusyDude/authorization/oauth 2.0 (in developing).md",
     "notesFromABusyDude/authorization/tokens (in developing).md",
     "notesFromABusyDude/images/openIdConnect.png",
@@ -171,31 +182,20 @@
     "notesFromABusyDude/redbook/FP.md",
     "notesFromABusyDude/Coupling and Cohesion.md",
     "notesFromABusyDude/authorization",
-    "notesFromABusyDude/Распределенные системы.md",
-    "notesFromABusyDude/Microservices patterns.md",
-    "notesFromABusyDude/microservice and monolite.md",
-    "notesFromABusyDude/Fiber.md",
     "notesFromABusyDude/Concurrency/mutex.md",
-    "notesFromABusyDude/Concurrency/Конкуретные баги.md",
     "notesFromABusyDude/images/bff.png",
     "notesFromABusyDude/images/bff.jpeg",
     "notesFromABusyDude/images/apiGateway.jpeg",
     "notesFromABusyDude/images/bff vs api gateway.png",
     "notesFromABusyDude/patterns",
     "notesFromABusyDude/Untitled.md",
-    "mouse guard/games/2-ая партия.md",
     "notesFromABusyDude/images/cohesion&couplingImage.png",
     "mouse guard/characters/Инга.md",
     "mouse guard/characters/Moss.md",
-    "mouse guard/games/3-я партия.md",
-    "mouse guard/games/Планы на 3-ю партию.md",
     "notesFromABusyDude/redbook",
-    "mouse guard/games/Планы на 2-ую партию.md",
-    "mouse guard/games/1-ая партия.md",
     "mouse guard/locations/Плющи.md",
     "mouse guard/characters/Кира Длиннохвостка.md",
     "mouse guard/characters/Криз.md",
-    "mouse guard/games/Планы на 1-ую партию.md",
     "mouse guard/images/Карта с разметкой.jpeg",
     "notesFromABusyDude/Concurrency",
     "notesFromABusyDude/images",
