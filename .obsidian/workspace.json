@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mouse guard/games/Планы на 4-ую партию.md",
+                "file": "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 200
   },
   "right": {
     "id": "ebc230d44246973f",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mouse guard/games/Планы на 4-ую партию.md",
+                "file": "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mouse guard/games/Планы на 4-ую партию.md",
+                "file": "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mouse guard/games/Планы на 4-ую партию.md"
+                "file": "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md"
               }
             }
           },
@@ -137,12 +137,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +159,24 @@
   },
   "active": "dab680ee9db7f3fb",
   "lastOpenFiles": [
-    "mouse guard/games/Untitled.md",
+    "notesFromABusyDude/TFTDS (распределенные системы)/репликация регистра.md",
+    "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md",
+    "Pasted image 20240728192648.png",
+    "notesFromABusyDude/TFTDS (распределенные системы)/распределенные системы.md",
+    "notesFromABusyDude/Coupling and Cohesion.md",
+    "notesFromABusyDude/TFTDS (распределенные системы)",
+    "notesFromABusyDude/Concurrency/mutex.md",
+    "notesFromABusyDude/Concurrency/Конкуретные баги.md",
+    "notesFromABusyDude/authorization/oauth 2.0 (in developing).md",
+    "notesFromABusyDude/authorization/tokens (in developing).md",
+    "notesFromABusyDude/authorization/openId (in developing).md",
+    "notesFromABusyDude/Microservices patterns.md",
+    "notesFromABusyDude/microservice and monolite.md",
+    "notesFromABusyDude/Fiber.md",
+    "notesFromABusyDude/redbook/FP.md",
+    "notesFromABusyDude/Concurrency/thread pool.md",
     "mouse guard/games/Планы на 4-ую партию.md",
+    "mouse guard/games/Untitled.md",
     "mouse guard/locations/Древоград.md",
     "mouse guard/ideas/Интересное.md",
     "mouse guard/games/3-я партия.md",
@@ -169,32 +185,17 @@
     "mouse guard/games/Планы на 3-ю партию.md",
     "mouse guard/games/Планы на 2-ую партию.md",
     "mouse guard/games/Планы на 1-ую партию.md",
-    "notesFromABusyDude/Распределенные системы.md",
-    "notesFromABusyDude/Microservices patterns.md",
-    "notesFromABusyDude/microservice and monolite.md",
-    "notesFromABusyDude/Fiber.md",
     "notesFromABusyDude/patterns/bff.md",
-    "Untitled Kanban.md",
-    "notesFromABusyDude/Concurrency/Конкуретные баги.md",
-    "notesFromABusyDude/Concurrency/thread pool.md",
-    "notesFromABusyDude/authorization/openId (in developing).md",
-    "notesFromABusyDude/authorization/oauth 2.0 (in developing).md",
-    "notesFromABusyDude/authorization/tokens (in developing).md",
     "notesFromABusyDude/images/openIdConnect.png",
     "notesFromABusyDude/images/authCodeGrant.png",
     "notesFromABusyDude/images/userAuthCodeGrant.png",
-    "notesFromABusyDude/redbook/FP.md",
-    "notesFromABusyDude/Coupling and Cohesion.md",
     "notesFromABusyDude/authorization",
-    "notesFromABusyDude/Concurrency/mutex.md",
     "notesFromABusyDude/images/bff.png",
     "notesFromABusyDude/images/bff.jpeg",
     "notesFromABusyDude/images/apiGateway.jpeg",
     "notesFromABusyDude/images/bff vs api gateway.png",
     "notesFromABusyDude/patterns",
-    "notesFromABusyDude/Untitled.md",
     "notesFromABusyDude/images/cohesion&couplingImage.png",
-    "mouse guard/characters/Инга.md",
     "notesFromABusyDude/redbook",
     "mouse guard/images/Карта с разметкой.jpeg",
     "notesFromABusyDude/Concurrency",
@@ -202,7 +203,6 @@
     "notesFromABusyDude/БД",
     "Bandit Mouse.jfif",
     "mouse guard/ideas",
-    "mouse guard/images",
-    "characters"
+    "mouse guard/images"
   ]
 }
