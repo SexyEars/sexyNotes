@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md",
+                "file": "notesFromABusyDude/redbook/FP.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md",
+                "file": "notesFromABusyDude/redbook/FP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md",
+                "file": "notesFromABusyDude/redbook/FP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md"
+                "file": "notesFromABusyDude/redbook/FP.md"
               }
             }
           },
@@ -159,10 +159,10 @@
   },
   "active": "dab680ee9db7f3fb",
   "lastOpenFiles": [
+    "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md",
     "notesFromABusyDude/TFTDS (распределенные системы)/распределенные системы.md",
     "notesFromABusyDude/Concurrency/Конкуретные баги.md",
     "notesFromABusyDude/images/atomicBroadcast.png",
-    "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md",
     "notesFromABusyDude/TFTDS (распределенные системы)/репликация регистра.md",
     "notesFromABusyDude/Coupling and Cohesion.md",
     "notesFromABusyDude/TFTDS (распределенные системы)",
