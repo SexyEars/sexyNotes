@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notesFromABusyDude/redbook/FP.md",
+                "file": "notesFromABusyDude/FP/TypeClass (in dev).md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notesFromABusyDude/redbook/FP.md",
+                "file": "notesFromABusyDude/FP/TypeClass (in dev).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notesFromABusyDude/redbook/FP.md",
+                "file": "notesFromABusyDude/FP/TypeClass (in dev).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notesFromABusyDude/redbook/FP.md"
+                "file": "notesFromABusyDude/FP/TypeClass (in dev).md"
               }
             }
           },
@@ -159,6 +159,10 @@
   },
   "active": "dab680ee9db7f3fb",
   "lastOpenFiles": [
+    "notesFromABusyDude/FP/Subtyping (in dev).md",
+    "notesFromABusyDude/FP/TypeClass (in dev).md",
+    "notesFromABusyDude/redbook/FP.md",
+    "notesFromABusyDude/FP",
     "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md",
     "notesFromABusyDude/TFTDS (распределенные системы)/распределенные системы.md",
     "notesFromABusyDude/Concurrency/Конкуретные баги.md",
@@ -173,7 +177,6 @@
     "notesFromABusyDude/Microservices patterns.md",
     "notesFromABusyDude/microservice and monolite.md",
     "notesFromABusyDude/Fiber.md",
-    "notesFromABusyDude/redbook/FP.md",
     "notesFromABusyDude/Concurrency/thread pool.md",
     "mouse guard/games/Планы на 4-ую партию.md",
     "mouse guard/games/Untitled.md",
@@ -185,7 +188,6 @@
     "mouse guard/games/Планы на 3-ю партию.md",
     "mouse guard/games/Планы на 2-ую партию.md",
     "mouse guard/games/Планы на 1-ую партию.md",
-    "notesFromABusyDude/patterns/bff.md",
     "notesFromABusyDude/images/openIdConnect.png",
     "notesFromABusyDude/images/authCodeGrant.png",
     "notesFromABusyDude/images/userAuthCodeGrant.png",
@@ -202,7 +204,6 @@
     "notesFromABusyDude/images",
     "notesFromABusyDude/БД",
     "Bandit Mouse.jfif",
-    "mouse guard/ideas",
-    "mouse guard/images"
+    "mouse guard/ideas"
   ]
 }
