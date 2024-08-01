@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notesFromABusyDude/redbook/answers.md",
+                "file": "notesFromABusyDude/БД/базы данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notesFromABusyDude/redbook/answers.md",
+                "file": "notesFromABusyDude/БД/базы данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notesFromABusyDude/redbook/answers.md",
+                "file": "notesFromABusyDude/БД/базы данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notesFromABusyDude/redbook/answers.md"
+                "file": "notesFromABusyDude/БД/базы данных.md"
               }
             }
           },
@@ -159,35 +159,38 @@
   },
   "active": "dab680ee9db7f3fb",
   "lastOpenFiles": [
-    "notesFromABusyDude/redbook/FP.md",
-    "notesFromABusyDude/redbook/answers.md",
-    "notesFromABusyDude/FP/TypeClass (in dev).md",
-    "notesFromABusyDude/FP/hof.md",
-    "notesFromABusyDude/FP/Subtyping (in dev).md",
-    "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md",
-    "notesFromABusyDude/FP",
+    "notesFromABusyDude/БД/Untitled.md",
+    "notesFromABusyDude/БД/базы данных.md",
+    "notesFromABusyDude/БД/CAP - теорема.md",
+    "notesFromABusyDude/architecture course/refs.md",
+    "notesFromABusyDude/architecture course",
+    "notesFromABusyDude/БД/ACID AND BASE.md",
+    "notesFromABusyDude/System design/refs.md",
+    "notesFromABusyDude/System design/Microservices patterns.md",
+    "notesFromABusyDude/System design/microservice and monolite.md",
+    "notesFromABusyDude/Concurrency/Fiber.md",
+    "notesFromABusyDude/Application design OOP/Coupling and Cohesion.md",
+    "notesFromABusyDude/System design",
+    "notesFromABusyDude/Application design OOP",
+    "notesFromABusyDude/TFTDS (распределенные системы)/репликация регистра.md",
     "notesFromABusyDude/TFTDS (распределенные системы)/распределенные системы.md",
+    "notesFromABusyDude/FP/hof.md",
+    "notesFromABusyDude/redbook/FP.md",
+    "notesFromABusyDude/FP/TypeClass (in dev).md",
+    "notesFromABusyDude/FP/Subtyping (in dev).md",
+    "notesFromABusyDude/redbook/answers.md",
+    "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md",
+    "notesFromABusyDude/Concurrency/mutex.md",
+    "notesFromABusyDude/FP",
     "notesFromABusyDude/Concurrency/Конкуретные баги.md",
     "notesFromABusyDude/images/atomicBroadcast.png",
-    "notesFromABusyDude/TFTDS (распределенные системы)/репликация регистра.md",
-    "notesFromABusyDude/Coupling and Cohesion.md",
     "notesFromABusyDude/TFTDS (распределенные системы)",
-    "notesFromABusyDude/Concurrency/mutex.md",
     "notesFromABusyDude/authorization/oauth 2.0 (in developing).md",
     "notesFromABusyDude/authorization/tokens (in developing).md",
     "notesFromABusyDude/authorization/openId (in developing).md",
-    "notesFromABusyDude/Microservices patterns.md",
-    "notesFromABusyDude/microservice and monolite.md",
-    "notesFromABusyDude/Fiber.md",
     "notesFromABusyDude/Concurrency/thread pool.md",
     "mouse guard/games/Планы на 4-ую партию.md",
     "mouse guard/games/Untitled.md",
-    "mouse guard/locations/Древоград.md",
-    "mouse guard/ideas/Интересное.md",
-    "mouse guard/games/3-я партия.md",
-    "mouse guard/games/1-ая партия.md",
-    "mouse guard/games/2-ая партия.md",
-    "mouse guard/games/Планы на 3-ю партию.md",
     "notesFromABusyDude/images/openIdConnect.png",
     "notesFromABusyDude/images/authCodeGrant.png",
     "notesFromABusyDude/images/userAuthCodeGrant.png",
@@ -201,9 +204,6 @@
     "notesFromABusyDude/redbook",
     "mouse guard/images/Карта с разметкой.jpeg",
     "notesFromABusyDude/Concurrency",
-    "notesFromABusyDude/images",
-    "notesFromABusyDude/БД",
-    "Bandit Mouse.jfif",
-    "mouse guard/ideas"
+    "notesFromABusyDude/images"
   ]
 }
