@@ -1,0 +1,1 @@
+Блог разработчика про нюансы работы с [Redis и Clickhouse](https://habr.com/ru/users/RukInDaHouse/publications/articles/) - советует Саша Зоркин

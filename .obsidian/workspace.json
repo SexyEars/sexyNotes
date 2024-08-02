@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notesFromABusyDude/БД/базы данных.md",
+                "file": "notesFromABusyDude/FP/linkedList.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notesFromABusyDude/БД/базы данных.md",
+                "file": "notesFromABusyDude/FP/linkedList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notesFromABusyDude/БД/базы данных.md",
+                "file": "notesFromABusyDude/FP/linkedList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notesFromABusyDude/БД/базы данных.md"
+                "file": "notesFromABusyDude/FP/linkedList.md"
               }
             }
           },
@@ -159,27 +159,29 @@
   },
   "active": "dab680ee9db7f3fb",
   "lastOpenFiles": [
-    "notesFromABusyDude/БД/Untitled.md",
+    "notesFromABusyDude/images/linkedList.png",
+    "notesFromABusyDude/FP/linkedList.md",
+    "notesFromABusyDude/TFTDS (распределенные системы)/репликация регистра.md",
+    "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md",
+    "notesFromABusyDude/TFTDS (распределенные системы)/распределенные системы.md",
+    "notesFromABusyDude/System design/Microservices patterns.md",
+    "notesFromABusyDude/System design/microservice and monolite.md",
     "notesFromABusyDude/БД/базы данных.md",
+    "notesFromABusyDude/БД/refs.md",
     "notesFromABusyDude/БД/CAP - теорема.md",
     "notesFromABusyDude/architecture course/refs.md",
     "notesFromABusyDude/architecture course",
     "notesFromABusyDude/БД/ACID AND BASE.md",
     "notesFromABusyDude/System design/refs.md",
-    "notesFromABusyDude/System design/Microservices patterns.md",
-    "notesFromABusyDude/System design/microservice and monolite.md",
     "notesFromABusyDude/Concurrency/Fiber.md",
     "notesFromABusyDude/Application design OOP/Coupling and Cohesion.md",
     "notesFromABusyDude/System design",
     "notesFromABusyDude/Application design OOP",
-    "notesFromABusyDude/TFTDS (распределенные системы)/репликация регистра.md",
-    "notesFromABusyDude/TFTDS (распределенные системы)/распределенные системы.md",
     "notesFromABusyDude/FP/hof.md",
     "notesFromABusyDude/redbook/FP.md",
     "notesFromABusyDude/FP/TypeClass (in dev).md",
     "notesFromABusyDude/FP/Subtyping (in dev).md",
     "notesFromABusyDude/redbook/answers.md",
-    "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md",
     "notesFromABusyDude/Concurrency/mutex.md",
     "notesFromABusyDude/FP",
     "notesFromABusyDude/Concurrency/Конкуретные баги.md",
@@ -189,8 +191,6 @@
     "notesFromABusyDude/authorization/tokens (in developing).md",
     "notesFromABusyDude/authorization/openId (in developing).md",
     "notesFromABusyDude/Concurrency/thread pool.md",
-    "mouse guard/games/Планы на 4-ую партию.md",
-    "mouse guard/games/Untitled.md",
     "notesFromABusyDude/images/openIdConnect.png",
     "notesFromABusyDude/images/authCodeGrant.png",
     "notesFromABusyDude/images/userAuthCodeGrant.png",
@@ -202,7 +202,6 @@
     "notesFromABusyDude/patterns",
     "notesFromABusyDude/images/cohesion&couplingImage.png",
     "notesFromABusyDude/redbook",
-    "mouse guard/images/Карта с разметкой.jpeg",
     "notesFromABusyDude/Concurrency",
     "notesFromABusyDude/images"
   ]
