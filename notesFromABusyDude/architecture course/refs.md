@@ -1,1 +1,0 @@
-[architecture course](https://wiki.tcsbank.ru/display/ARCHCOURSE/Architecture+Course+Home)
