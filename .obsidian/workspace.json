@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c210a23ae06374e",
+        "id": "920ea016131e20ee",
         "type": "tabs",
         "children": [
           {
-            "id": "dab680ee9db7f3fb",
+            "id": "025f668059c0e82b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notesFromABusyDude/FP/linkedList.md",
+                "file": "mouse guard/ideas/Интересное.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notesFromABusyDude/FP/linkedList.md",
+                "file": "mouse guard/ideas/Интересное.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notesFromABusyDude/FP/linkedList.md",
+                "file": "mouse guard/ideas/Интересное.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notesFromABusyDude/FP/linkedList.md"
+                "file": "mouse guard/ideas/Интересное.md"
               }
             }
           },
@@ -157,40 +157,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dab680ee9db7f3fb",
+  "active": "025f668059c0e82b",
   "lastOpenFiles": [
-    "notesFromABusyDude/images/linkedList.png",
-    "notesFromABusyDude/FP/linkedList.md",
-    "notesFromABusyDude/TFTDS (распределенные системы)/репликация регистра.md",
-    "notesFromABusyDude/TFTDS (распределенные системы)/atomic broadcast.md",
-    "notesFromABusyDude/TFTDS (распределенные системы)/распределенные системы.md",
-    "notesFromABusyDude/System design/Microservices patterns.md",
-    "notesFromABusyDude/System design/microservice and monolite.md",
-    "notesFromABusyDude/БД/базы данных.md",
-    "notesFromABusyDude/БД/refs.md",
-    "notesFromABusyDude/БД/CAP - теорема.md",
-    "notesFromABusyDude/architecture course/refs.md",
-    "notesFromABusyDude/architecture course",
-    "notesFromABusyDude/БД/ACID AND BASE.md",
-    "notesFromABusyDude/System design/refs.md",
-    "notesFromABusyDude/Concurrency/Fiber.md",
     "notesFromABusyDude/Application design OOP/Coupling and Cohesion.md",
+    "mouse guard/characters/Moss.md",
+    "mouse guard/characters/Стюарт Литтл.md",
+    "mouse guard/characters/Черри.md",
+    "mouse guard/characters/Барри.md",
+    "mouse guard/locations/Гальбрук.md",
+    "mouse guard/locations/Плющи.md",
+    "mouse guard/characters/Дым'Ок.md",
+    "mouse guard/characters/Ядите Тид.md",
+    "mouse guard/characters/Покерфейс.md",
+    "mouse guard/games/Планы на 4-ую партию.md",
+    "mouse guard/games/4-ая партия.md",
+    "mouse guard/games/Планы на 2-ую партию.md",
+    "mouse guard/games/Планы на 3-ю партию.md",
+    "mouse guard/help sheet.md",
+    "mouse guard/games/3-я партия.md",
+    "mouse guard/games/Планы на 1-ую партию.md",
+    "mouse guard/games/1-ая партия.md",
+    "mouse guard/ideas/Интересное.md",
+    "mouse guard/images/Карта с разметкой.jpeg",
+    "mouse guard/weather.md",
+    "mouse guard/characters/Берг.md",
+    "mouse guard/characters/Крузиан.md",
+    "mouse guard/characters/Инга.md",
+    "mouse guard/games/2-ая партия.md",
+    "notesFromABusyDude/FP/hof.md",
+    "notesFromABusyDude/FP/TypeClass (in dev).md",
+    "notesFromABusyDude/images/linkedList.png",
+    "notesFromABusyDude/architecture course",
     "notesFromABusyDude/System design",
     "notesFromABusyDude/Application design OOP",
-    "notesFromABusyDude/FP/hof.md",
-    "notesFromABusyDude/redbook/FP.md",
-    "notesFromABusyDude/FP/TypeClass (in dev).md",
-    "notesFromABusyDude/FP/Subtyping (in dev).md",
-    "notesFromABusyDude/redbook/answers.md",
-    "notesFromABusyDude/Concurrency/mutex.md",
     "notesFromABusyDude/FP",
-    "notesFromABusyDude/Concurrency/Конкуретные баги.md",
     "notesFromABusyDude/images/atomicBroadcast.png",
     "notesFromABusyDude/TFTDS (распределенные системы)",
-    "notesFromABusyDude/authorization/oauth 2.0 (in developing).md",
-    "notesFromABusyDude/authorization/tokens (in developing).md",
-    "notesFromABusyDude/authorization/openId (in developing).md",
-    "notesFromABusyDude/Concurrency/thread pool.md",
     "notesFromABusyDude/images/openIdConnect.png",
     "notesFromABusyDude/images/authCodeGrant.png",
     "notesFromABusyDude/images/userAuthCodeGrant.png",
@@ -200,7 +202,6 @@
     "notesFromABusyDude/images/apiGateway.jpeg",
     "notesFromABusyDude/images/bff vs api gateway.png",
     "notesFromABusyDude/patterns",
-    "notesFromABusyDude/images/cohesion&couplingImage.png",
     "notesFromABusyDude/redbook",
     "notesFromABusyDude/Concurrency",
     "notesFromABusyDude/images"
