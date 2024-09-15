@@ -11,8 +11,15 @@
             "id": "025f668059c0e82b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -92,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.canvas"
+              }
             }
           },
           {
@@ -151,6 +162,17 @@
   },
   "active": "025f668059c0e82b",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "weather.md",
+    "help sheet.md",
+    "templates/template №1.md",
+    "templates/location.md",
+    "templates/Партии.md",
+    "ideas/Untitled.md",
+    "games/Планы на 2-ую партию.md",
+    "games/2-ая партия.md",
+    "games/3-я партия.md",
+    "games/1-ая партия.md",
     "notesFromABusyDude/Application design OOP/Coupling and Cohesion.md",
     "mouse guard/characters/Moss.md",
     "mouse guard/characters/Стюарт Литтл.md",
@@ -166,18 +188,7 @@
     "mouse guard/games/Планы на 2-ую партию.md",
     "mouse guard/games/Планы на 3-ю партию.md",
     "mouse guard/help sheet.md",
-    "mouse guard/games/3-я партия.md",
-    "mouse guard/games/Планы на 1-ую партию.md",
-    "mouse guard/games/1-ая партия.md",
-    "mouse guard/ideas/Интересное.md",
     "mouse guard/images/Карта с разметкой.jpeg",
-    "mouse guard/weather.md",
-    "mouse guard/characters/Берг.md",
-    "mouse guard/characters/Крузиан.md",
-    "mouse guard/characters/Инга.md",
-    "mouse guard/games/2-ая партия.md",
-    "notesFromABusyDude/FP/hof.md",
-    "notesFromABusyDude/FP/TypeClass (in dev).md",
     "notesFromABusyDude/images/linkedList.png",
     "notesFromABusyDude/architecture course",
     "notesFromABusyDude/System design",
